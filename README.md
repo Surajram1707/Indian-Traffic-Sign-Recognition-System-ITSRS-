@@ -4,3 +4,4 @@ Indian Traffic Sign Recognition System is a system that recognizes traffic signs
 Team mates.
 1. Surajram.S
 2. Swatika Ayyappan
+3. Shruthakeerthy
